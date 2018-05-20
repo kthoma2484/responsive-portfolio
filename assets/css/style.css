@@ -321,7 +321,7 @@ p {
   }
   
   .main-section {
-    max-width: 640px;
+    max-width: 400px;
     margin: 0 0 20px;
     overflow: auto;
   }
@@ -335,7 +335,7 @@ p {
  img {
     float: center;
     max-width: 400px;
-    width: 80%;
+    width: 100%;
     height: auto;
     border: 0 none;
   }
